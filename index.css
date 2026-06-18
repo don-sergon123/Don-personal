@@ -1,0 +1,21 @@
+h1 {
+    color: #333;
+    font-family: 'Segoe UI', sans-serif;
+    text-align: center;
+}
+
+p {
+    color: #555;
+    font-family: 'Segoe UI', sans-serif;
+    text-align: center;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+a {
+    color: purple;
+    text-decoration: italic;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
